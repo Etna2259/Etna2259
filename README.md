@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quan
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Web dev
 - 🌱 I’m currently learning R, MySQL, Tableau
 - 📫 How to reach me:
  + https://www.facebook.com/minhquanlaw
